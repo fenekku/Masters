@@ -1,0 +1,41 @@
+#project files
+*.sublime-workspace
+
+
+*.pyc
+*.log
+
+# Latex files
+*.aux
+*.blg
+*.bbl
+*.brf
+*.toc
+*.synctex.gz
+*.lof
+*.lot
+*.fdb_latexmk
+
+#Data files
+#only the server will contain the final results
+*.pkl
+*.npy
+*.npz
+*.out
+*.gz
+*.mtx.*
+*.mtx4.0.shovel
+*.mm
+*.bin
+*.ids
+*.ratings
+*.benchmark
+*.png
+
+#Subdirectories to ignore
+ThirdParty/graphchi-cpp/
+Data/raw/readmes/
+Data/raw/test/readmes/
+Papers/
+DataVisualization/
+Thesis/

@@ -1,0 +1,12 @@
+git+https://github.com/sigmavirus24/github3.py.git
+numpy
+matplotlib
+boomslang
+simplejson
+scikit-learn
+scipy >= 0.14.0
+nose
+bidict
+psycopg2
+orderedset
+arrow
